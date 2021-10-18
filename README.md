@@ -1,2 +1,3 @@
 # hello-word
-First repository
+My name is TC, means Tom Cat!
+
